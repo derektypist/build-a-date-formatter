@@ -14,4 +14,4 @@ Uses HTML5, CSS3 and JavaScript.  Working with the JavaScript Date object, inclu
 
 ### Acknowledgements
 
-[FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
+[FreeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
